@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://Snair.app">Home Page</a> |
-    <a href="https://x.com/appSnairSnair">Twitter</a> |
+    <a href="https://x.com/appSnair">Twitter</a> |
     <a href="https://Snairapp.gitbook.io/Snair/">Whitepaper</a> |
 </div>
 <br/>

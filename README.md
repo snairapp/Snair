@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://Snair.app">Home Page</a> |
+    <a href="https://snair.org">Home Page</a> |
     <a href="https://x.com/appSnair">Twitter</a> |
     <a href="https://Snairapp.gitbook.io/Snair/">Whitepaper</a> |
 </div>
@@ -98,7 +98,7 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Snair. Our team is diligently updating to the latest version. For more information on how to self-host Snair, please refer to our [documentation](https://Snair.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Snair. Our team is diligently updating to the latest version. For more information on how to self-host Snair, please refer to our [documentation](https://snair.org/).
 
 ## Hiring
 
